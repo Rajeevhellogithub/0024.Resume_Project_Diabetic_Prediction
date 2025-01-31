@@ -1,0 +1,1 @@
+# 0024.Resume_Project_Diabetic_Prediction
